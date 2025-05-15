@@ -66,6 +66,8 @@ myside/
 
 ## Como Executar
 
+> **Atenção:** Para que o Docker Compose reconheça as variáveis de ambiente, renomeie o arquivo `env.example` para `.env` na raiz do projeto antes de iniciar os serviços.
+
 ### Requisitos
 
 - Python 3.11+
