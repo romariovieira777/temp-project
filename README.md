@@ -12,12 +12,17 @@
 - [Endpoints Principais](#endpoints-principais)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
+- [Arquitetura](#arquitetura)
 
 ---
 
 ## Visão Geral
 
 A API permite realizar investigações digitais a partir de nome e telefone, utilizando técnicas avançadas de busca (Google Dorks) e extração de dados de páginas web. O objetivo é fornecer ao Personal Shopper Imobiliário informações relevantes, como histórico judicial, presença digital, vínculos empresariais e possíveis riscos, de forma automatizada e rastreável.
+
+## Arquitetura
+
+![Diagrama da Arquitetura](arquitetura.png)
 
 ---
 
