@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="TQb9_-ExKIFzbJAif1A0">
+    <mxGraphModel dx="1379" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="780" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p_PzwKujk4cZW_EhTdyR-23" target="p_PzwKujk4cZW_EhTdyR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-23" value="deep search agent" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="391" y="460" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p_PzwKujk4cZW_EhTdyR-26" target="p_PzwKujk4cZW_EhTdyR-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-25" value="NOME - TELEFONE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p_PzwKujk4cZW_EhTdyR-24">
+          <mxGeometry x="-0.1125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-26" value="User&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="249" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="360" y="219" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-28" value="root agent" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="391" y="240" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="p_PzwKujk4cZW_EhTdyR-23" target="p_PzwKujk4cZW_EhTdyR-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="450" as="sourcePoint" />
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="670" width="500" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-31" value="&lt;div&gt;Deep Search Tool&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="fillColor=#EFF0F3;strokeColor=none;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;whiteSpace=wrap;html=1;" vertex="1" parent="p_PzwKujk4cZW_EhTdyR-30">
+          <mxGeometry width="500" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p_PzwKujk4cZW_EhTdyR-30" source="p_PzwKujk4cZW_EhTdyR-33" target="p_PzwKujk4cZW_EhTdyR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-33" value="Google Dorks&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;" vertex="1" parent="p_PzwKujk4cZW_EhTdyR-30">
+          <mxGeometry x="230" y="59" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p_PzwKujk4cZW_EhTdyR-30" source="p_PzwKujk4cZW_EhTdyR-35" target="p_PzwKujk4cZW_EhTdyR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-35" value="APi Google Search" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="p_PzwKujk4cZW_EhTdyR-30">
+          <mxGeometry x="90" y="60" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="p_PzwKujk4cZW_EhTdyR-36" value="Selenium&#xa;" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png;" vertex="1" parent="p_PzwKujk4cZW_EhTdyR-30">
+          <mxGeometry x="370" y="53.680000000000064" width="58" height="60.63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

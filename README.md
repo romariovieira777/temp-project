@@ -90,7 +90,7 @@ A API estará disponível em: [http://localhost:8000](http://localhost:8000)
 
 ## Variáveis de Ambiente
 
-- `OPENAI_MODEL`: Modelo a ser utilizado pelo agente (ex: `gpt-4`)
+- `OPENAI_MODEL`: Modelo a ser utilizado pelo agente (ex: `gpt-4o`)
 - `OPENAI_API_KEY`: Chave de API da OpenAI
 - `ENVIRON`, `TIMEZONE`: Outras variáveis para configuração do ambiente
 
@@ -101,11 +101,11 @@ A API estará disponível em: [http://localhost:8000](http://localhost:8000)
 - **GET /**  
   Retorna mensagem de boas-vindas e versão da API.
 
-- **POST /api/v1/myside/buscar/nome/{nome}/telefone/{telefone}**  
+- **GET /api/v1/myside/buscar/nome/{nome}/telefone/{telefone}**  
   Realiza a busca profunda a partir do nome e telefone informados.  
   **Exemplo:**  
   ```
-  POST /api/v1/myside/buscar/nome/Joao%20Silva/telefone/11999999999
+  GET /api/v1/myside/buscar/nome/Joao%20Silva/telefone/11999999999
   ```
 
   **Retorno:**  
